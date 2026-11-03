@@ -1,0 +1,20 @@
+{
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": "none",
+  "reportUnknownMemberType": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportReturnType": "none",
+  "venvPath": ".",
+  "venv": ".venv",
+  "exclude": [
+    "alembic/versions/**",
+    "**/__pycache__/**"
+  ],
+  "ignore": [
+    "**/.venv/**"
+  ]
+}
